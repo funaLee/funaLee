@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-- 💌 I am passionate about Mathematics, Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI), with a strong focus on Natural Language Processing (NLP). My goal is to develop innovative AI-powered solutions that bridge the gap between human communication and computational intelligence.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+am+passionate+about+AI;Nice+to+meet+you+!)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=funaLee&theme=darkhub&row=1&column=7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=funaLee&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=funaLee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funaLee&layout=compact&theme=radical)
 
 ## 📝 WHOAMI
 - 🎀 **Name**: Le Thi Thanh Truc (Funa)
@@ -52,13 +56,6 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
-
-## ⚡ GitHub stats
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=funaLee&theme=darkhub&row=1&column=7)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=funaLee&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=funaLee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funaLee&layout=compact&theme=radical)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Le+Thi+Thanh+Truc;I+love+Machine+Learning+and+AI;Contact+with+me!)
 
 ## 📫 Contact with me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/funaLee21/)
