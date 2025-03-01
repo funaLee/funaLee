@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-# Hi there 👋  
-
----
-
-I am passionate about developing LLM-based applications and integrating them into diverse fields to create impactful solutions.
+**I am passionate about developing LLM-based applications and integrating them into diverse fields to create impactful solutions.**
 
 
 <!--
