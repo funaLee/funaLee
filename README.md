@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# Hi there 👋  
+
+---
+
+I am passionate about developing LLM-based applications and integrating them into diverse fields to create impactful solutions.
+
+
 <!--
 **funaLee/funaLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
