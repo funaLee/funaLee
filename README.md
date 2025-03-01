@@ -2,7 +2,7 @@
 
 - 💌 I am passionate about Mathematics, Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI), with a strong focus on Natural Language Processing (NLP). My goal is to develop innovative AI-powered solutions that bridge the gap between human communication and computational intelligence.
 
-### 📝 WHOAMI
+## 📝 WHOAMI
 - 🎀 **Name**: Le Thi Thanh Truc (Funa)
 - 🎂 **Born**: 21st Nov, 2005 (19 years old)
 - 🎓 **Education**: Second-year Bachelor Student at University of Information Technology. Major: Information Technology (Vietnam-Japan program). GPA: 9.12/10
@@ -10,14 +10,14 @@
 - 🎯 **Goal**: Pursuing a Master’s Program in Japan
 - 🌍 **Languages I Speak**: Vietnamese (native), English (B1), Japanese (B2)
 
-### 🚀 My Focus Areas
+## 🚀 My Focus Areas
 - 🌱 Machine Learning, Deep Learning, Transfer Learning
 - 🌱 Natural Language Processing (NLP): text normalization, text generation, sentiment analysis.
 - 🌱 Large Language Models (LLMs)
 - 🌱 Prompt Engineering, Fine-tuning pre-trained models
 - 🌱 Semiconductor (preparing for NEXUS program)
 
-### 💻 Tech Stack  
+## 💻 Tech Stack  
 
 - 🖥️ **Programming Skills**: C/C++, Python, HTML/CSS  
 <p align="left">
@@ -53,14 +53,14 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-### ⚡ GitHub stats
+## ⚡ GitHub stats
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=funaLee&theme=darkhub&row=1&column=7)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=funaLee&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=funaLee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funaLee&layout=compact&theme=radical)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Le+Thi+Thanh+Truc;I+love+Machine+Learning+and+AI;Contact+with+me!)
 
-### 📫 Contact with me
+## 📫 Contact with me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/funaLee21/)
 - 📧 Email: 23521667@gm.uit.edu.vn
 
