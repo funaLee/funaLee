@@ -59,6 +59,7 @@
 
 ## 📫 Contact with me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/funaLee21/)
+- 🔗 [Hugging Face](https://huggingface.co/funa21)
 - 📧 Email: 23521667@gm.uit.edu.vn
 
 
