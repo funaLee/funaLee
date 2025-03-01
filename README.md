@@ -53,14 +53,14 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-### GitHub stats
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&row=1&column=7)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### ⚡ GitHub stats
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=funaLee&theme=darkhub&row=1&column=7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=funaLee&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=funaLee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funaLee&layout=compact&theme=radical)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Le+Thi+Thanh+Truc;I+love+Machine+Learning+and+AI;Contact+with+me!)
 
-### Contact with me
+### 📫 Contact with me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/funaLee21/)
 - 📧 Email: 23521667@gm.uit.edu.vn
 
