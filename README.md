@@ -3,7 +3,8 @@
 - 💌 I am passionate about Mathematics, Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI), with a strong focus on Natural Language Processing (NLP). My goal is to develop innovative AI-powered solutions that bridge the gap between human communication and computational intelligence.
 
 ### 📝 WHOAMI
-- 🎂 **Born**: 21st Nov, 2005
+- 🎀 **Name**: Le Thi Thanh Truc (Funa)
+- 🎂 **Born**: 21st Nov, 2005 (19 years old)
 - 🎓 **Education**: Second-year Bachelor Student at University of Information Technology. Major: Information Technology (Vietnam-Japan program). GPA: 9.12/10
 - 🔭 **Currently Learning**: Natural Language Processing, LLMs, Retrieval-Augmented Generation (RAG), Multimodal AI and Semiconductor Technologies.
 - 🎯 **Goal**: Pursuing a Master’s Program in Japan
@@ -52,6 +53,16 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
+### GitHub stats
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&row=1&column=7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;I+love+coding+and+open-source)
+
+### Contact with me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/funaLee21/)
+- 📧 Email: 23521667@gm.uit.edu.vn
 
 
 <!--
