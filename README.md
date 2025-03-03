@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+am+passionate+about+AI;Nice+to+meet+you+!)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=funaLee&theme=darkhub&row=1&column=7)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=funaLee&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=funaLee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funaLee&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=funaLee&theme=tokyonight&row=1&column=7)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=funaLee&theme=tokyonight)](https://git.io/streak-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=funaLee&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funaLee&layout=compact&theme=tokyonight)
 
 ## 📝 WHOAMI
 - 🎀 **Name**: Le Thi Thanh Truc (Funa)
